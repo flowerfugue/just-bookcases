@@ -1,0 +1,5 @@
+{
+	"advancements.adventure.read_power_from_chiseled_bookshelf.description": "Read the power signal of a Bookcase using a Comparator",
+	"block.minecraft.bookshelf": "Book-Patterned Planks",	
+	"block.minecraft.chiseled_bookshelf": "Bookcase"  
+}

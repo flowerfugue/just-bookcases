@@ -1,0 +1,10 @@
+{
+	"pack": {
+		"description": "Renames the Chiseled Bookshelf to Bookcase",
+		"pack_format": 32,
+		"supported_formats": [
+			15,
+			40
+		]
+	}
+}
